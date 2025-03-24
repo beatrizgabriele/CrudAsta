@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600&display=swap');
+
+
+h2 {
+    text-align: center;
+    margin-bottom: 1rem;
+    color: var(--ciano);
+} 
+
+#resultados{
+    color: black;
+    font-size: 14px;
+    
+}
+
+#bntCadastrar {
+    background-color: #4CAF50; /* Verde */
+    color: white;            /* Texto branco */
+}
